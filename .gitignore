@@ -5,6 +5,7 @@ __pycache__
 *.csv
 result/
 vendor
-composer.lock
 .env
 *.txt
+/node_modules
+node_modules
